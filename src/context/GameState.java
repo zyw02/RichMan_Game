@@ -2,15 +2,15 @@ package context;
 
 /**
  * 
- * ÓÎÏ·³£Á¿
+ * æ¸¸æˆå¸¸é‡
  * 
  * 
- * @author MOVELIGHTS
+ * @author PeakOfMountains
  *
  */
 public class GameState {
 
-	// Í£ÁôÔÚ½¨Öş·µ»Ø×´Ì¬
+	// åœç•™åœ¨å»ºç­‘è¿”å›çŠ¶æ€
 	
 	public  final static int HOSPITAL_EVENT = 1;
 
@@ -30,11 +30,11 @@ public class GameState {
 	
 	public  final static int SHOP_EVENT = 9;
 	
-	// Â·¹ı½¨Öş·µ»Ø×´Ì¬
+	// è·¯è¿‡å»ºç­‘è¿”å›çŠ¶æ€
 	
 	public final static int ORIGIN_PASS_EVENT = 1;
 	
-	// Ê¹ÓÃ¿¨Æ¬·µ»Ø×´Ì¬
+	// ä½¿ç”¨å¡ç‰‡è¿”å›çŠ¶æ€
 	
 	public  final static int CARD_ADDLEVEL = 1;
 	
@@ -60,7 +60,7 @@ public class GameState {
 	
 	public  final static int CARD_STOP = 12;
 	
-	// ¿¨Æ¬×÷ÓÃĞ§¹û·µ»Ø×´Ì¬
+	// å¡ç‰‡ä½œç”¨æ•ˆæœè¿”å›çŠ¶æ€
 	
 	public final static int CARD_BUFF_STOP = 1;
 	
